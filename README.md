@@ -6,3 +6,5 @@ oauth.consumerKey=***
 oauth.consumerSecret=***
 oauth.accessToken=***
 oauth.accessTokenSecret=***
+
+Refer https://github.com/Landoop/fast-data-dev for Kafka docker image
